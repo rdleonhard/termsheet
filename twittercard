@@ -1,0 +1,15 @@
+<html>
+<head>
+<meta name="twitter:image" content="<!-- Fill in the body content here -->" />
+<meta name="twitter:card" content="player" />
+<meta name="twitter:title" content="Term Sheet" />
+<meta name="twitter:description" content="Term sheets for startups" />
+<meta name="twitter:player" content="https://termsheets.me" />
+<meta name="twitter:player:width" content="360" />
+<meta name="twitter:player:height" content="560" />
+<title> Title</title>
+</head>
+<body>
+Body Test
+</body>
+</html>
